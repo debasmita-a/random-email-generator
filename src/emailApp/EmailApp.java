@@ -7,7 +7,7 @@ public class EmailApp {
 		
 		System.out.println(em1.showInfo());
 		
-		em1.setPassword("Truthwitch@23!");
+		em1.setPassword("Truthwitch@21!");
 		System.out.println("New password: " + em1.getPassword());
 
 	}
